@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\bin\Debug\net6.0\Zadacha21.exe
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\bin\Debug\net6.0\Zadacha21.deps.json
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\bin\Debug\net6.0\Zadacha21.runtimeconfig.json
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\bin\Debug\net6.0\Zadacha21.dll
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\bin\Debug\net6.0\ref\Zadacha21.dll
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\bin\Debug\net6.0\Zadacha21.pdb
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.GlobalUsings.g.cs
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfo.cs
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.dll
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\ref\Zadacha21.dll
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.pdb
+C:\Users\admin\Desktop\Домашка GB\Домашняя работа4\Zadacha21\obj\Debug\net6.0\Zadacha21.genruntimeconfig.cache
